@@ -39,15 +39,15 @@ We will create a new table and organize the dataset focusing on date and shootin
 
 
 
-###Data Collection
+### Data Collection
 We did not directly collect the data since it was available publicly on Kaggle. We will limit PII by removing any data that reveals names of criminals. The data itself also did not include any names of victims by default, so that also limits PII exposure.
-###Data Storage
+### Data Storage
 The dataset will be stored in our Google Drive folder and everyone who has access to that folder will be able to work with it.
-###Analysis
+### Analysis
 The data will not include any PII. Furthermore, we will be careful and aware when analyzing the relationship of shooters and gender, to avoid enforcing discriminatory interpretations of shooters. In addition, as mass shootings are a sensationalized topic by modern media today, we will make sure we that do not sensationalize the data as that would be ethically wrong to do, as the data values in our data set are not just numbers, but representations of people whose lives were forever changed or taken tragically.
-###Modeling
+### Modeling
 We will be looking at the variable "date" to answer our question. The data we are working on now has no bias so far and we will use more data and use them together to make sure there will be no bias shows up. Furthermore, we can be fairly confident that our data has no bias, such information bias, selection bias, and confounders because we have cross-checked our data set with news reports to affirm each data point is legitimate. Additionally we can be confident that we do not have confounders in our dataset the victims/deaths are strictly by gun injury/death, along with no selection bias because we have a dataset of ALL the mass shootings in the U.S. in the last 50 years.
-###Deployment
+### Deployment
 In case any users are harmed by the results, we will immediately any data points related to them upon their request. Furthermore, if there was a massive amount of data that was to be removed, we would find different variables to analyze to adjust for concept drift. Rollbacks in any case will be handled by the "Revision History" feature of Google Drive, as it is built-in already. On the topic of concept drift, if there is updated data from the original source on Kaggle regarding mass shooters, we will implement that new data into our assignment.
 
 ## **Importing Data**
