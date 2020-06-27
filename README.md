@@ -1,5 +1,5 @@
 # Mass Shooting Project
-***By: Ronaldo Romano, Jasmine Allred, Yi Li, Mengyu Zhang, Issac In
+***By: Ronaldo Romano, Jasmine Allred, Yi Li, Mengyu Zhang, Issac In***
 
 ## **Our Question**
 
